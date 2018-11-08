@@ -10,7 +10,7 @@ import facade.exceptions.ApplicationException;
  * 
  * @author fmartins
  * @version 1.1 (5/10/2014)
- *	
+ *	ola
  */
 public class SaleService {	
 
